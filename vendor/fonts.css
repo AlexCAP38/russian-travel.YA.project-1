@@ -1,3 +1,4 @@
+/* 400 - Normal*/
 @font-face {
   font-family: 'Inter';
   font-weight: 400;
@@ -5,6 +6,15 @@
     url(../Fonts/Inter-Regular.woff2) format('woff2');
 }
 
+/* 700 - Bold*/
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  src: url(../Fonts/Inter-Bold.woff) format('woff'),
+    url(../Fonts/Inter-Bold.woff2) format('woff2');
+}
+
+/* 900 - Black*/
 @font-face {
   font-family: 'Inter';
   font-weight: 900;

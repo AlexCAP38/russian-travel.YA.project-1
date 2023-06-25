@@ -1,0 +1,15 @@
+.lang-links__link {
+  font-size: 24px;
+  text-decoration: none;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.lang-links__link:last-child {
+  margin-left: 18px;
+}
+
+.lang-links__link:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s;
+}
