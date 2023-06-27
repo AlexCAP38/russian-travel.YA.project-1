@@ -1,18 +1,13 @@
 .cover {
   max-width: 1184px;
   margin: 92px auto 0;
+  
   display: flex;
   justify-content: center;
 }
 
 @media screen and (max-width: 1024px) {
-  .cover {}
-}
-
-@media screen and (max-width: 768px) {
-  .cover {}
-}
-
-@media screen and (max-width: 320px) {
-  .cover {}
+  .cover {
+    max-width: 1024px;
+  }
 }

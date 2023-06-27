@@ -6,10 +6,18 @@
 }
 
 .footer__link:not(:first-of-type) {
-  margin-left: 18px;
+  margin-left: 13px;
 }
 
 .footer__link:hover {
   opacity: 0.8;
   transition: opacity 0.3s;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+
+      margin-top: 32px;
+      margin-left: 0;
+  }
 }

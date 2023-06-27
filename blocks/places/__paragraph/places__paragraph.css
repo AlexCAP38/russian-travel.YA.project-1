@@ -4,6 +4,14 @@
   margin: 0;
 }
 
+@media screen and (max-width: 1024px) {
+  .places__paragraph {
+
+    
+  }
+}
+
+
 @media screen and (max-width: 320px) {
   .places__paragraph {
     max-width: 288px;

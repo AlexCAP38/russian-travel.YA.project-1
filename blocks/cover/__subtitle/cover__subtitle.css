@@ -7,3 +7,19 @@
   margin: 40px 0 0;
   z-index: 1;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover__subtitle {
+    margin: 35px 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    max-width: 288px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    margin: 16px 0 0;
+  }
+}
