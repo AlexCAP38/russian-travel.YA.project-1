@@ -3,12 +3,12 @@
   letter-spacing: 2px;
   color: #aaa;
   margin: 0;
-  /* margin: 120px 0 0; */
+
 }
 
-@media screen and (max-width: 320px) {
+/* @media screen and (max-width: 320px) {
   .places__url-heading {
     min-width: 288px;
     margin: 32px auto 0;
   }
-}
+} */

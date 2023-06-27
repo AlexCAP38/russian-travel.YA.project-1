@@ -1,21 +1,3 @@
 .cover__background {
-  background-image: url(../../../images/cover__background.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-
   width: 100%;
-  height: 740px;
-
-  /*Выравняли содержимое по центру   */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
-/*
-@media screen and (max-width: 1024px) {
-  .cover__background {
-    position: relative;
-    width: 100%;
-  }
-} */

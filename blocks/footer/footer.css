@@ -1,8 +1,7 @@
 .footer {
-  grid-column: span 3;
-  width: 100%;
-  margin: 92px 0 24px;
-  
+  max-width: 1184px;
+  margin: 90px auto 24px;
+
   display: flex;
   justify-content: space-between;
 }

@@ -2,8 +2,6 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/root/root.css);
 
-@import url(../blocks/main-grid/main-grid.css);
-
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/lang-links/lang-links.css);
@@ -32,12 +30,19 @@
 @import url(../blocks/places/__link/places__link.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__column/_flex/places__column_flex.css);
+@import url(../blocks/places/__title/_margin/places__title_margin-kosa.css);
+@import url(../blocks/places/__title/_margin/places__title_margin-kolskiy.css);
+@import url(../blocks/places/__title/_margin/places__title_margin-altay.css);
+@import url(../blocks/places/__title/_margin/places__title_margin-baikal.css);
+@import url(../blocks/places/__title/_margin/places__title_margin-kareliya.css);
+@import url(../blocks/places/__paragraph/_margin/places__paragraph_margin-top.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__container/cover__container.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
