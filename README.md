@@ -33,4 +33,4 @@
 
 ##технологии
 
-##ссылка на гит
+##ссылка на Github pages: https://alexcap38.github.io/russian-travel/
