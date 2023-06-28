@@ -1,0 +1,5 @@
+@media screen and (min-width: 321px) and  (max-width: 1024px) {
+    .footer__link_margin {
+        margin-left: 13px;
+    }
+}
