@@ -37,6 +37,7 @@
 @import url(../blocks/places/__title/_margin/places__title_margin-baikal.css);
 @import url(../blocks/places/__title/_margin/places__title_margin-kareliya.css);
 @import url(../blocks/places/__paragraph/_margin/places__paragraph_margin-top.css);
+@import url(../blocks/places/__title/_short/places__title_short.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);

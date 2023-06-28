@@ -9,6 +9,6 @@
 @media screen and (max-width: 320px) {
   .places__url-heading {
     min-width: 288px;
-    margin: 32px auto 0;
+    margin: 6px auto 0;
   }
 }

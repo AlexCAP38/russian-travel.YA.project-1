@@ -21,7 +21,7 @@
     max-width: 720px;
     margin: 88px auto 0;
     grid-template-columns: 340px 1fr;
-    gap: 73px 28px;
+    gap: 45px 28px;
   }
 }
 
@@ -30,6 +30,6 @@
     margin-top: 64px;
     max-width: 320px;
     grid-template-columns: 1fr;
-    row-gap: 15px;
+    row-gap: 23px;
   }
 }

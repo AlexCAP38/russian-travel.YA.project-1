@@ -14,7 +14,7 @@
 @media screen and (max-width: 320px) {
   .places__link {
     min-width: 288px;
-    margin: 12px auto 0;
+    margin: 13px auto 0;
     font-size: 18px;
     line-height: 22px;
   }

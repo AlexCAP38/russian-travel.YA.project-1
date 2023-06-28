@@ -1,3 +1,17 @@
-.places__title_margin-altay {
-  margin-top: 35px;
+@media screen and (max-width: 1024px) {
+  .places__title_margin-altay {
+    margin-top: 35px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__title_margin-altay {
+    margin-top: 28px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__title_margin-altay {
+    margin: 0 0 2px 16px;
+  }
 }
