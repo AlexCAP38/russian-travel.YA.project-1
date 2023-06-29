@@ -5,7 +5,7 @@
   margin-bottom: 4px;
 }
 
-.lang-links__link:last-child {
+.lang-links__link:not(:first-child) {
   margin-left: 18px;
 }
 

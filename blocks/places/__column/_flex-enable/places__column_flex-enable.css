@@ -1,4 +1,4 @@
-.places__column_flex {
+.places__column_flex-enable {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;

@@ -7,6 +7,6 @@
   padding: 0;
 }
 
-.intro__list span{
+.intro__list .intro__list-elm{
   font-weight: 400;
 }
