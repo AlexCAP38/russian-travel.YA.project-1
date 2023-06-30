@@ -1,7 +1,7 @@
 .root {
   font-family: 'Inter', 'Arial', sans-serif;
   font-weight: 400;
-
+  box-sizing: content-box;
   background-color: #2A2C2F;
   color: #fff;
 
