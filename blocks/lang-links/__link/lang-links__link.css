@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 320px) {
   .lang-links__link {
-    margin-top: 4px;
+    margin: 10px 0 0 0;
     font-size: 18px;
   }
 }

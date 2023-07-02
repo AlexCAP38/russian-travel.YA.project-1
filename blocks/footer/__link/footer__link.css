@@ -10,7 +10,7 @@
   transition: opacity 0.3s;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 660px) {
   .footer__link {
     font-size: 24px;
     margin-bottom: 28px;
@@ -18,7 +18,7 @@
   }
 }
 
-@media screen and (min-width: 321px) {
+@media screen and (min-width: 660px) {
   .footer__link:not(:first-of-type) {
       margin-left: 13px;
   }

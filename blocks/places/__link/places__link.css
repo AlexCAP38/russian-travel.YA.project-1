@@ -1,8 +1,7 @@
 .places__link {
   font-size: 18px;
   color: #fff;
-  display: block;
-  margin: 12px 0 0;
+  margin: 14px 0 0;
 }
 
 .places__link:hover {
@@ -10,12 +9,10 @@
   transition: opacity 0.3s;
 }
 
-
 @media screen and (max-width: 320px) {
   .places__link {
-    min-width: 288px;
-    margin: 13px auto 0;
     font-size: 18px;
     line-height: 22px;
+    margin-top: 12px;
   }
 }
