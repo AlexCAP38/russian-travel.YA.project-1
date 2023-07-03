@@ -1,5 +1,11 @@
 .places__image {
   width: 100%;
+  /* grid-column: 1/2; */
+}
+/*
+
+.places__image {
+  width: 100%;
   margin-top: 48px;
 }
 
@@ -13,4 +19,4 @@
   .places__image {
     margin-top: 8px;
   }
-}
+} */

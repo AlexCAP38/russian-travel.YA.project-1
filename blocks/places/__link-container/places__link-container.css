@@ -1,5 +1,12 @@
 .places__link-container {
   display: flex;
+  flex-direction: column;
+  justify-content: end;
+  /* grid-column: 2/3; */
+}
+
+/* .places__link-container {
+  display: flex;
   justify-content: end;
   flex-direction: column;
   margin-left: 40px;
@@ -15,4 +22,4 @@
   .places__link-container {
     margin-left: 16px;
   }
-}
+} */
