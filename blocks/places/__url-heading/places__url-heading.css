@@ -6,23 +6,8 @@
   margin: 0 0 20px;
 }
 
-/* .places__url-heading {
-  font-size: 12px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  color: #aaa;
-  margin: 106px 0 0;
-}
-
-@media screen and (max-width: 768px) {
-  .places__url-heading {
-    margin: 0;
-  }
-}
-
-
 @media screen and (max-width: 320px) {
   .places__url-heading {
-    margin-top: 8px;
+    margin: 8px 0 0 16px;
   }
-} */
+}

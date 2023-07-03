@@ -9,13 +9,11 @@
   transition: opacity 0.3s;
 }
 
-/*
 @media screen and (max-width: 320px) {
   .places__link {
     font-size: 18px;
-    line-height: 22px;
-    margin-top: 12px;
+    line-height: 24px;
+
+    margin: 12px 0 0 14px;
   }
-} */
-
-
+}
