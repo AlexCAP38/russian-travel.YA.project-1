@@ -20,10 +20,10 @@
 @media screen and (max-width: 768px) {
   .places__card {
     max-width: 720px;
-    grid-template-columns: 47.25% 1fr;
-    column-gap: 28px;
+    grid-template-columns: 47.23% 1fr;
+    column-gap: 26px;
     row-gap: 42px;
-    margin: 0 auto 74px;
+    margin: 0 auto 71px;
   }
 }
 

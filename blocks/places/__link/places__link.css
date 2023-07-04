@@ -10,11 +10,18 @@
   transition: opacity 0.3s;
 }
 
+@media screen and (max-width: 768px) {
+  .places__link {
+    padding-bottom: 6px;
+  }
+}
+
+
 @media screen and (max-width: 320px) {
   .places__link {
     font-size: 18px;
     line-height: 24px;
-
     margin: 12px 0 0 14px;
+    padding-bottom: 0;
   }
 }
