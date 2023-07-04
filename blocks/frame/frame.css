@@ -8,7 +8,6 @@
 
 @media screen and (max-width: 1024px) {
   .frame {
-    box-sizing: border-box;
     padding: 0 20px 0;
   }
 }
