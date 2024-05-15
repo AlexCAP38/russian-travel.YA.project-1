@@ -8,6 +8,12 @@
 Подбор шрифтов и конвертация их из ttf в woff. Научился создавать грид сетки, перемещать ячейки, отказался в использование фиксированных размеров. Использование удаленно репозитория, работа с ветками(объединение, восстановление, удаление). Деплой выложил страницу в публичный доступ при помощи github pages.
 Проект верстался от DESKTOP версии к MOBILE
 
+## СТЕК
+HTML, CSS, БЭМ
+
+## Макет
+https://www.figma.com/design/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503-0&t=oDEvvAsuPOTzugBC-0
+
 ## ссылка на Github pages:
 
-https://alexcap38.github.io/russian-travel/
+https://alexcap38.github.io/russian-travel.YA.project-1/
